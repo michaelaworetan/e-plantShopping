@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .landing-page {
@@ -50,6 +50,7 @@
   flex-direction: column;
   justify-content: center;
   gap: 10px;
+  border: 3px solid red;
 }
 
 .content p,
